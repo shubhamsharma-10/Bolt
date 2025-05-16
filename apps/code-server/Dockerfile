@@ -1,4 +1,4 @@
-FROM codercom/code-server:latest
+FROM codercom/code-server:4.96.4
 
 USER root
 RUN apt-get update \
